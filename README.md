@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a geologist passionate about data analysis.
 
 ### Connect with me:
 <div id="badges">
-  <a href="www.linkedin.com/in/cassiano-dias-de-souza-6787061a0">
+  <a href="https://www.linkedin.com/in/cassiano-dias-de-souza-6787061a0/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
